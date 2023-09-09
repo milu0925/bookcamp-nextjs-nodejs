@@ -144,6 +144,13 @@ export default function UserTestJWT() {
     } else if (selectedValue === '3') {
      setEmail('root@test.com')
     }
+    else if(selectedValue ==='4'){
+      setEmail('user06@test.com')
+      setPasswd('123123')
+    }else if(selectedValue ==='5'){
+      setEmail('user87@test.com')
+      setPasswd('123123')
+    }
   }
 
   // 以下為 LINE 登入相關
@@ -253,6 +260,8 @@ export default function UserTestJWT() {
                   <option value='1'>會員功能測試帳密</option>
                   <option value='2'>優惠券功能測試帳密</option>
                   <option value='3'>管理者</option>
+                  <option value='4'>討論區測試帳密</option>
+                  <option value='5'>購物車測試帳密</option>
                 </select>
               </div>
               {/* 協助按鈕 */}

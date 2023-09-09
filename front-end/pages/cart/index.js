@@ -159,8 +159,8 @@ export default function Cart() {
     // 總價計算
     if (amountCoupon - usePoint <= 0 ) {
       total = 0
-    } else if (amountCoupon - usePoint <= 0) {
-      total = 0 + 60
+    } else if (amountCoupon - usePoint != 0) {
+      total = amountCoupon - usePoint + 60
     } else {
       total = amountCoupon - usePoint + fee
     }

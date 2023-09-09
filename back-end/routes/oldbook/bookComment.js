@@ -12,7 +12,7 @@ router.get('/:book_id', async (req, res) => {
         JOIN book b on b.book_id = od.book_id
         JOIN \`order\` o on o.order_id = od.order_id
         JOIN client c on c.client_id = o.client_id
-        WHERE od.book_id = ?`
+        WHERE od.book_id = ? ORDER BY o.order_create_date DESC`
     const [comment] = await db.query(commentsql, [id])
 
     // 訂單創建日期改格式
