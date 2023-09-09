@@ -5,8 +5,8 @@
 <br>
 
 ##### 執行專案
-npm i
-npm run dev
+npm i<br>
+npm run dev<br>
 
 ## 個人負責版面
 版面切版排版樣式為個人處理，後續美化整體與主題符合為其他組員修正。
