@@ -9,15 +9,15 @@
 ![image](https://github.com/milu0925/bookcamp/assets/122149992/7aa2d2bb-0f4c-40d9-b54d-68b5e938209f)
 
 ## 使用技術
-前端 - nextJS框架
-後端 - nodeJS-express框架
-資料庫 - MYSQL
-前後互動 - ajax-axios套件
--- 其他 --
-Redux
-Redux toolkit
-Redux persist
-Redux thunk
+前端 - nextJS框架<br>
+後端 - nodeJS-express框架<br>
+資料庫 - MYSQL<br>
+前後互動 - ajax-axios套件<br>
+-- 其他 --<br>
+Redux<br>
+Redux toolkit<br>
+Redux persist<br>
+Redux thunk<br>
 
 ## Figma上設計
 ![image](https://github.com/milu0925/bookcamp/assets/122149992/cb587357-eaf3-4e1f-801e-eb06570d95b3)
@@ -25,8 +25,8 @@ Redux thunk
 
 
 可改善地方
-- [ ] 未登入狀態使用購物車(用redux)
-- [ ] 應在後端驗證訂單資訊
-- [ ] 完成藍新解密
+- [ ] 未登入狀態使用購物車(用redux)<br>
+- [ ] 應在後端驗證訂單資訊<br>
+- [ ] 完成藍新解密<br>
 
 
