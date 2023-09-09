@@ -6,7 +6,8 @@
 ## 版面
 版面基本切版、原設置為個人處理，後續美化為其他組員修正。
 以下為所有版面設計
-![Uploading image.png…]()
+![image](https://github.com/milu0925/bookcamp/assets/122149992/7aa2d2bb-0f4c-40d9-b54d-68b5e938209f)
+
 
 
 
