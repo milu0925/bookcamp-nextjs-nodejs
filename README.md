@@ -40,5 +40,6 @@ Redux thunk<br>
 - [ ] 未登入狀態使用購物車(用redux)<br>
 - [ ] 應在後端驗證訂單資訊<br>
 - [ ] 完成藍新解密<br>
+- [ ] RWD<br>
 
 <br>
