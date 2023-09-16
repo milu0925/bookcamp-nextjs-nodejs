@@ -1,6 +1,5 @@
 # 書營bookcamp
 此為團體專案，<br>
-可前往 https://a5a0-203-64-101-140.ngrok-free.app/ 觀看完整內容。<br>
 若下載此專案,env檔案需要自行建立。<br>
 <br>
 
