@@ -5,8 +5,8 @@
 
 ##### 執行專案
 ```
-npm i<br>
-npm run dev<br>
+npm i
+npm run dev
 ```
 
 ## 個人負責版面
