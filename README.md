@@ -26,12 +26,3 @@ npm run dev
 後端 - nodeJS-express框架<br>
 資料庫 - MYSQL<br>
 前後互動 - ajax-axios套件<br>
-#### -- 其他 --
-Redux<br>
-
-
-## Figma上設計
-![image](https://github.com/milu0925/bookcamp/assets/122149992/cb587357-eaf3-4e1f-801e-eb06570d95b3)
-<br>
-
-<br>
