@@ -5,7 +5,6 @@
 
 ##### 執行專案
 ```
-npm i
 npm run dev
 ```
 
