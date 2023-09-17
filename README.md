@@ -34,10 +34,4 @@ Redux<br>
 ![image](https://github.com/milu0925/bookcamp/assets/122149992/cb587357-eaf3-4e1f-801e-eb06570d95b3)
 <br>
 
-##### 可改善，目前未改善地方
-- [ ] 未登入狀態使用購物車(用redux)<br>
-- [ ] 應在後端驗證訂單資訊<br>
-- [ ] 完成藍新解密<br>
-- [ ] RWD<br>
-
 <br>
